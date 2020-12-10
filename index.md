@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<img src="https://avatars0.githubusercontent.com/u/73771484?s=400&u=d8f43ba4d14d8d9770c569bde942c65b2c86d4e0&v=4" />
 
-You can use the [editor on GitHub](https://github.com/msalehis/masoud1369/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+I am seyyed masoud salehi , born on 1369/08/09
+I am a bachelor student of Payame Noor University of Shahriar Center with a major in computer software engineering;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### phon number
++ 09365856913
 
-### Markdown
+### Personal information
++ First name : Seyyed Masoud
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Last name : Salehi
 
-```markdown
-Syntax highlighted code block
++ Birth Day : 09 Aban 1369
 
-# Header 1
-## Header 2
-### Header 3
+### Languages
++ Persian
 
-- Bulleted
-- List
++ English(Intermediate)
 
-1. Numbered
-2. List
+### Skills
++ Vb
 
-**Bold** and _Italic_ and `Code` text
++ ICDL
 
-[Link](url) and ![Image](src)
-```
++ Sql server
+ 
+### Work Experience
++ Administrative employee of the secretariat unit of Pegah Tehran company and lT unit
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Certifications
 
-### Jekyll Themes
+### Contact Me
+- Gmail: masoodsalehi1394@yahoo.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msalehis/masoud1369/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### درباره من
+من سید مسعود صالحی هستم ، متولد 1369/08/09
+دانشجوی کارشناسی دانشگاه پیام نور شهر ری, با گرایش مهندسی کامپیوترنرم افزار ؛
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### شماره تماس 
++ 09365856913
+
+### اطلاعات شخصی
++ نام: سید مسعود 
+
++ نام خانوادگی : صالحی 
+
++ تولد: 09 آبان 1369
+
+### زبان
++ فارسی
+
++ (انگلیسی  (متوسط
+
+### مهارت ها
++ Vb
++ ICDL  
++ Sql server
+
+
+  
+### سوابق کاری
++ کارمند اداری واحد دبیرخانه شرکت پگاه تهران و واحد lT
+
+### گواهی مهارت
+
