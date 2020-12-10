@@ -2,7 +2,7 @@
 
 ### About Me
 I am seyyed masoud salehi , born on 1369/08/09
-I am a bachelor student of Payame Noor University of Shahriar Center with a major in computer software engineering;
+I am a bachelor student of Payame Noor University City of Ray with a major in computer software engineering;
 
 ### phon number
 + 09365856913
